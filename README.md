@@ -1,3 +1,3 @@
 # crumbzy
 
-Hosted Link : https://manishbittu0999.github.io/crumbzy/
+Hosted Link : (https://keen-wescoff-522ba0.netlify.app/)
